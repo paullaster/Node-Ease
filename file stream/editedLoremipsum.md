@@ -1,0 +1,2 @@
+okay, i can describe her, her taste of something. i mean they say she is chocolate, no  i think she is vanilla ...mmmmh i'm in daire need... i garra sort mah self out .... sorry i forgot the context ... now the lorem ipsum i was talking about yesterday whrn i met black hero giant in the city clock matching with guns and pistols swaying at her back  diemmmm ... was almost hit by a car i was drawning with appetite of lust ... iiiishhhh less continue next time i  have many sotries to tell
+by seee u i am the geek paullaster the original editor of the piece

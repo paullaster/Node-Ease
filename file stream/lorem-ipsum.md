@@ -1,0 +1,33 @@
+What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+
+Where does it come from?
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+Where can I get some?
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+
+
+
+
+
+
+Lorem Ipsum
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae arcu pretium, pharetra metus non, mollis ex. Nulla euismod mi lectus, eget dapibus risus viverra et. Pellentesque vehicula sed mauris in interdum. In sollicitudin magna velit, at blandit justo fringilla dignissim. Curabitur nunc elit, lacinia lacinia quam quis, elementum iaculis mauris. Nullam tincidunt faucibus suscipit. Praesent fermentum sapien in laoreet ultricies. Mauris sed nulla interdum, blandit mauris pellentesque, sollicitudin erat. Donec molestie enim elit, in euismod massa imperdiet et. Nam ut elit sed nibh dapibus tempus eget vel ligula.
+
+Curabitur sollicitudin dolor id finibus consectetur. Sed metus augue, malesuada vel tellus in, tincidunt rutrum odio. Nullam libero odio, ornare sed iaculis sed, maximus sit amet metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas et tellus turpis. Etiam volutpat libero nibh. Mauris arcu eros, laoreet eget sollicitudin a, gravida sed justo. Etiam mattis hendrerit ante at posuere. Sed sodales bibendum nulla a venenatis.
+
+Aenean ut purus elementum, pretium nisi quis, iaculis nunc. Nunc magna diam, gravida ut massa quis, porta consequat nisi. Vivamus mollis sodales diam, vel ullamcorper nisl tristique nec. In in quam egestas est tempus tempus a imperdiet elit. Ut ullamcorper nunc ut magna porta aliquet. Praesent rhoncus nisl non consequat facilisis. Morbi facilisis rhoncus mauris in pulvinar. Fusce placerat vulputate lorem eu mattis. Etiam tortor ligula, dictum vitae eleifend ac, hendrerit et ligula. Quisque hendrerit, augue iaculis hendrerit pretium, purus odio malesuada metus, facilisis aliquam sem leo id eros. Sed ornare condimentum odio convallis varius. Fusce ullamcorper porttitor dolor. Vivamus non luctus tortor. In tristique tellus nisl, non consequat libero pharetra non. Duis justo diam, scelerisque id gravida sed, posuere non erat.
+
+Mauris sodales, magna viverra ultrices semper, tellus neque hendrerit lacus, nec sodales neque mi eget sem. Morbi egestas nunc odio, vitae efficitur ante condimentum vel. Aliquam hendrerit sapien non pellentesque lacinia. Praesent iaculis lobortis sem, ut mattis quam tincidunt at. Ut non euismod ligula. Phasellus viverra scelerisque est, id blandit magna blandit eget. Morbi sit amet arcu dolor. Nunc pharetra velit tristique nibh tempor, non semper enim eleifend. Aenean consectetur sit amet orci a condimentum.
+
+Mauris consequat laoreet lectus quis pellentesque. Morbi nec neque eget quam porta vehicula id eget lorem. Nunc lacus mauris, cursus in lacus at, tristique elementum ex. Donec mattis justo in laoreet porttitor. Sed magna arcu, dignissim a maximus eget, dignissim non odio. Pellentesque sodales sem sed sem vulputate bibendum. Sed fermentum ligula molestie, porta ex tempor, tincidunt magna. In justo ex, pellentesque vel fermentum vitae, laoreet et urna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin id mi nec mauris rutrum blandit. In et ullamcorper diam. In quam turpis, rutrum quis tellus vitae, venenatis eleifend magna.
